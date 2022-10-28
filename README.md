@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin Kumar Chauhan</h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
-<img align="right" alt="coding" width="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw1yHyA-6fL6BzZCCdODdJuW&ust=1667062143264000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCPjYxMmwg_sCFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="200" src="![image](https://user-images.githubusercontent.com/108132219/198691650-b7e7d5a8-716a-4cda-8e43-9ce79349bd71.png)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar14&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar14" /> </p>
 
