@@ -1,8 +1,7 @@
 ![logo](https://github.com/SachinKumar14/SachinKumar14/blob/main/SACHIN%20KUMAR%20CHAUHAN%20(1).png)
 <h1 align="center">Hi 👋, I'm Sachin Kumar Chauhan</h1>
 <h3 align="center">An aspiring Data Analyst from India</h3>
-<img align="right" alt="coding" width="200" src="![image](https://user-images.githubusercontent.com/108132219/198691650-b7e7d5a8-716a-4cda-8e43-9ce79349bd71.png)
-">
+<img align="right" alt="coding" width="400" src="https://github.com/SachinKumar14/SachinKumar14/blob/main/91168b4873f6659b3e9fdfe4b89cd864.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar14&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar14" /> </p>
 
