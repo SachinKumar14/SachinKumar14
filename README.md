@@ -1,19 +1,19 @@
-![MasterHead](https://github.com/SachinKumar14/SachinKumar14/blob/main/SACHIN%20KUMAR%20CHAUHAN%20(1).png)
+<img width="1983" height="793" alt="bannergithub" src="https://github.com/user-attachments/assets/898e39d8-2dca-4018-b180-b6e3394a2af2" />
+
 <h1 align="center">Hi 👋, I'm Sachin Kumar Chauhan</h1>
-<h3 align="center">An aspiring Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/SachinKumar14/SachinKumar14/blob/main/91168b4873f6659b3e9fdfe4b89cd864.gif">
+<h3 align="center">Data Analyst | Aspiring Data Scientist | Power BI • SQL • Python • Machine Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinkumar14&label=Profile%20views&color=0e75b6&style=flat" alt="sachinkumar14" /> </p>
 
-- 🔭 I’m currently working on **Fmcg project**
+- 🔭 Currently working on Retail & Operations Analytics Projects
 
-- 🌱 I’m currently learning **Tableau,powerbi,SQL,Python**
+- 🌱 Learning Data Science, Machine Learning, Advanced SQL, and Power BI
 
-- 🤝 I’m looking for help with **E-commerce project and Data analyst job**
+- 📊 Building interactive dashboards focused on business operations, customer insights, and revenue analytics
 
-- 📫 How to reach me **Sachin006chauhan@gmail.com**
+- 📫 Reach me at: **Sachin006chauhan@gmail.com**
 
-- ⚡ Fun fact **I think I am friendly & a team player ,happy go person**
+- ⚡ Interested in Data Analytics, Business Intelligence, and Operational Reporting
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
